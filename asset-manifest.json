@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Search/Movies/static/css/main.47275bf6.css",
+    "main.js": "/github.io/Search/Movies/static/js/main.8f08e7fe.js",
+    "static/js/787.7c42db31.chunk.js": "/github.io/Search/Movies/static/js/787.7c42db31.chunk.js",
+    "index.html": "/github.io/Search/Movies/index.html",
+    "main.47275bf6.css.map": "/github.io/Search/Movies/static/css/main.47275bf6.css.map",
+    "main.8f08e7fe.js.map": "/github.io/Search/Movies/static/js/main.8f08e7fe.js.map",
+    "787.7c42db31.chunk.js.map": "/github.io/Search/Movies/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47275bf6.css",
+    "static/js/main.8f08e7fe.js"
+  ]
+}
